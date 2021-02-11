@@ -28,7 +28,7 @@
 textarea {
 	resize: none;
 	width: 720px;
-	font-size: 13px;
+	font-size: 15px;
 	height: 288px;
 	color: #737373;
 	background-color: #F8F8F8;
@@ -47,7 +47,7 @@ textarea {
 input {
 	width: 352px;
 	height: 60px;
-	font-size: 13px;
+	font-size: 15px;
 	color: #737373;
 	background-color: #F8F8F8;
 	border: 2px solid #E8E8E8;
@@ -81,26 +81,31 @@ button {
 	color: #CECECE;
 	opacity: 1;
 	font-family: 'Poppins', sans-serif;
+	font-size: 13px;
 }
 ::-moz-placeholder {
 	color: #CECECE;
 	opacity: 1;
 	font-family: 'Poppins', sans-serif;
+	font-size: 13px;
 }
 :-ms-input-placeholder {
 	color: #CECECE;
 	opacity: 1;
 	font-family: 'Poppins', sans-serif;
+	font-size: 13px;
 }
 ::-ms-input-placeholder {
 	color: #CECECE;
 	opacity: 1;
 	font-family: 'Poppins', sans-serif;
+	font-size: 13px;
 }
 ::placeholder {
 	color: #CECECE;
 	opacity: 1;
 	font-family: 'Poppins', sans-serif;
+	font-size: 13px;
 }
 .fa-paper-plane {
 	font-size: 14px;
